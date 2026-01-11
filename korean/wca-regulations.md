@@ -11,7 +11,7 @@
 번역본과 영문 버전(현재 공식 버전) 사이에 차이가 있는 경우 영문 버전이 반드시 사용되어야 한다.
 번역이 되어야 마땅하지만, 외래어 및 신조어가 굳어진 표현들에 대해서는 독자의 편의를 위해 널리 쓰이는 단어를 최대한 사용하였다.
 
-번역 및 교정에 도움을 주신 분들: [고영진](https://www.worldcubeassociation.org/persons/2007YOUN04), [구민서](https://www.worldcubeassociation.org/persons/2014GUMI01), [최경민](https://www.worldcubeassociation.org/persons/2017CHOI07), [최일규](https://www.worldcubeassociation.org/persons/2008CHOI04)
+번역 및 교정에 도움을 주신 분들: [고영진](https://www.worldcubeassociation.org/persons/2007YOUN04), [구민서](https://www.worldcubeassociation.org/persons/2014GUMI01), [최경민](https://www.worldcubeassociation.org/persons/2017CHOI07), [최일규](https://www.worldcubeassociation.org/persons/2008CHOI04)  
 이전 버전의 번역 및 교정에 도움을 주신 분들: [권두현](https://www.worldcubeassociation.org/persons/2011KWON01), [장석원](https://www.worldcubeassociation.org/persons/2015SUCK01)
 
 ### WCA 규정
